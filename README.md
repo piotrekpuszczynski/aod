@@ -2,7 +2,17 @@
 
 ## lista 1
 
-* zad 1 - algorytmy BFS i DFS
-* zad 2 - algorytm sortowania topologicznego dla grafów skierowanych z wykrywaniem istnieniaskierowanego cyklu
-* zad 2 - algorytm, który dla podanego na wejściu grafu skierowanego G=(V, E) zwróci jegorozkład na silnie spójne składow
-* zad 2 - algorytm sprawdza czy graf jest dwudzielny, jeżeli jest wyznacza przykład podziału
+* algorytmy BFS i DFS
+* algorytm sortowania topologicznego dla grafów skierowanych z wykrywaniem istnieniaskierowanego cyklu
+* algorytm, który dla podanego na wejściu grafu skierowanego G=(V, E) zwróci jegorozkład na silnie spójne składow
+* algorytm sprawdza czy graf jest dwudzielny, jeżeli jest wyznacza przykład podziału
+
+## lista 2
+
+sprawozdanie jest zawarte w katalogu listy
+
+## lista 3
+
+* algorytm dijkstry
+* algorytm dial (modyfikacja dijkstry)
+* algorytm radix heap (modyfikacja dijkstry)
