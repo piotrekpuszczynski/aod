@@ -9,6 +9,8 @@
 
 ## lista 2
 
+lista polega na rozwiązaniu czterech problemów za pomocą programowania liniowego (solver GLPK w języku julia)
+
 sprawozdanie jest zawarte w katalogu listy
 
 ## lista 3
@@ -16,3 +18,5 @@ sprawozdanie jest zawarte w katalogu listy
 * algorytm dijkstry
 * algorytm dial (modyfikacja dijkstry)
 * algorytm radix heap (modyfikacja dijkstry)
+
+sprawozdanie jest zawarte w katalogu listy
